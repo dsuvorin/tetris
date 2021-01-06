@@ -1,1 +1,1 @@
-Игра тетрис на Unity.
+Tetris game on Unity.
