@@ -150,14 +150,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 519420028}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c6be1b9d2c9d2b24d989323ff7363a0a, type: 3}
+  m_Script: {fileID: 11500000, guid: 9ca953a62b2dbf64a8e963fe85f8d0a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   colorSprites:
-  - {fileID: 21300000, guid: 14b75877a0247b844b5c8be79df8f3b7, type: 3}
-  - {fileID: 21300000, guid: d79c17240d4f30c41b2deff64028496f, type: 3}
-  - {fileID: 21300000, guid: d5ae29b21c13bde4081f30642810dec1, type: 3}
-  wallSprite: {fileID: 21300000, guid: c79d699a3ed32904ea50b37e11e00cbc, type: 3}
+  - {fileID: 21300000, guid: 325b5218928184b428e30d57eb26f715, type: 3}
+  - {fileID: 21300000, guid: 4b8dabc488df1ff4e98524cfb560cd62, type: 3}
+  - {fileID: 21300000, guid: 49716c7d2cd7f4345825f56fb5632727, type: 3}
+  wallSprite: {fileID: 21300000, guid: b8154862a835942489ede90c4b66138e, type: 3}
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
